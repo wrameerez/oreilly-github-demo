@@ -15,6 +15,7 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 
 ## Test comments
 I like this GitHub videos!
+[Test link](http://redux.fit)
 
 ## License
 
